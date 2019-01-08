@@ -1,7 +1,8 @@
 # JukeBox
 A music player made using Tkinter Framework in python.
 
-The music player supports .mp3 and .wav file formats.\n 
+The music player supports .mp3 and .wav file formats.
+
 The window has been divided into two main frames: the left and right frame.
 The left frame contains the Listbox widget where user can add
 and delete songs to their playlist. Below the listbox are two buttons: "+Add" and "-Del" for adding and deleting songs respectively.
@@ -18,3 +19,4 @@ Messageboxes have been used to generate messages and errors to the user.
  
 Lastly, themes has been used to make the music player more attractive and better-looking.
 I faced problems while trying to convert the project into an executable using cx_Freeze. You are welcome to convert it into an executable and GIT it with me. Just make a PR and I will merge it.
+
