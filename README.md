@@ -15,6 +15,7 @@ The bottom frame contains the Rewind, Mute and Volume Scale.
 At the extreme end of the window, there is a StatusBar which shows the current status of the music player. It also displays the name of the song that is currently being played.
 
 The icon and the buttons have been downloaded from the website: www.flaticon.com
+
 Messageboxes have been used to generate messages and errors to the user.
  
 Lastly, themes has been used to make the music player more attractive and better-looking.
