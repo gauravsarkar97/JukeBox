@@ -2,7 +2,7 @@
 A music player made using Tkinter Framework in python.
 
 The music player supports .mp3 and .wav file formats.\n 
-The window has been divided into two main frames: the left and right frame.\nThe left frame contains the Listbox widget where user can add
+The window has been divided into two main frames: the left and right frame.\n The left frame contains the Listbox widget where user can add
 and delete songs to their playlist. Below the listbox are two buttons: "+Add" and "-Del" for adding and deleting songs respectively.
 The right frame is again divided into three frames: the top, middle and bottom frames.
 The top frame contains the labels of Total Length and Current Time. The total length of each song as well as the current playing time is also shown. 
